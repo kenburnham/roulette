@@ -1,12 +1,6 @@
 import numpy as np
 import random as rand
 
-count = 1000
-start = 3000
-pocket = 3000
-least_pocket = 3000
-init_wager = 10
-
 def menu():
     print("""
         \nWelcome to the Table! Please select from the menu below:
