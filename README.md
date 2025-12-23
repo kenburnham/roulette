@@ -1,8 +1,9 @@
-# roulette
+# Roulette
                   This program tests the gambling theory of:  
           "You can't lose, if you just double your wager after each loss"
           
-          To keep it simple - we are assuming you are playing roulette - and are assuming 
+### To keep it simple -  
+          We are assuming you are playing roulette - and are assuming 
           you are betting on RED every spin. Their are 18 of both colors (red + black), plus 
           (2) greens, so your odds of winning each hand are 18/38 = 47.3%.
           
